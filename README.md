@@ -10,8 +10,9 @@ A collection of notes for my paper reading.
 
 Papers include Dialog Generation and Text Generation.
 
-1. Toward Controlled Generation of Text [arxiv](http://arxiv.org/abs/1703.00955)
+1. Toward Controlled Generation of Text.
 *Hu, Z., Yang, Z., Liang, X., Salakhutdinov, R., & Xing, E. P. (2017).*
+[arxiv](http://arxiv.org/abs/1703.00955)
 
 ![picture 1][1]
 
